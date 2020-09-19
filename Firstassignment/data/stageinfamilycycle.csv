@@ -1,4 +1,12 @@
 "Activity";"Stage in family cycle";"Men 1987-1988";"Men 1999-2000";"Men 2009-2010";"Women 1987-1988";"Women 1999-2000";"Women 2009-2010"
+"01     Gainful employment";"Aged under 45, single, no children, living with parents";2.22;1.16;0.56;1.10;0.27;0.27
+"01     Gainful employment";"Aged under 45, single, no children, living elsewhere";4.18;3.32;3.14;3.40;3.05;2.41
+"01     Gainful employment";"Single parent";.;.;.;3.35;2.39;2.47
+"01     Gainful employment";"Aged under 45, married or cohabiting, no children";5.08;4.19;3.33;4.01;3.10;3.10
+"01     Gainful employment";"Married or cohabiting, youngest child aged 0-6";5.21;5.14;4.54;2.33;2.14;2.18
+"01     Gainful employment";"Married or cohabiting, youngest child aged 7-17";5.18;5.00;4.41;4.05;3.51;4.01
+"01     Gainful employment";"Aged over 45, married or cohibiting, no children";2.59;2.42;1.46;2.05;2.04;1.52
+"01     Gainful employment";"Aged over 45, single, no children";1.54;1.44;2.05;1.03;0.54;0.59
 "02     Travel to and from work";"Aged under 45, single, no children, living with parents";0.10;0.06;0.04;0.07;0.04;0.04
 "02     Travel to and from work";"Aged under 45, single, no children, living elsewhere";0.21;0.20;0.17;0.21;0.17;0.16
 "02     Travel to and from work";"Single parent";.;.;.;0.19;0.16;0.17
@@ -7,3 +15,187 @@
 "02     Travel to and from work";"Married or cohabiting, youngest child aged 7-17";0.23;0.22;0.25;0.19;0.20;0.22
 "02     Travel to and from work";"Aged over 45, married or cohibiting, no children";0.13;0.12;0.09;0.08;0.11;0.10
 "02     Travel to and from work";"Aged over 45, single, no children";0.06;0.11;0.11;0.05;0.05;0.05
+"03     Housekeeping";"Aged under 45, single, no children, living with parents";0.18;0.23;0.18;0.48;0.39;0.34
+"03     Housekeeping";"Aged under 45, single, no children, living elsewhere";0.39;0.49;0.40;1.11;0.59;0.55
+"03     Housekeeping";"Single parent";.;.;.;2.16;2.19;2.01
+"03     Housekeeping";"Aged under 45, married or cohabiting, no children";0.38;0.37;0.40;1.48;1.32;1.11
+"03     Housekeeping";"Married or cohabiting, youngest child aged 0-6";0.41;0.45;0.55;2.48;2.32;2.06
+"03     Housekeeping";"Married or cohabiting, youngest child aged 7-17";0.42;0.51;0.56;2.46;2.29;2.06
+"03     Housekeeping";"Aged over 45, married or cohibiting, no children";0.51;0.59;1.08;3.11;2.45;2.33
+"03     Housekeeping";"Aged over 45, single, no children";1.32;1.47;1.21;2.37;2.15;2.12
+"04     Maintenance work";"Aged under 45, single, no children, living with parents";0.24;0.16;0.10;0.09;0.07;0.06
+"04     Maintenance work";"Aged under 45, single, no children, living elsewhere";0.17;0.18;0.17;0.06;0.10;0.16
+"04     Maintenance work";"Single parent";.;.;.;0.14;0.08;0.14
+"04     Maintenance work";"Aged under 45, married or cohabiting, no children";0.28;0.21;0.23;0.14;0.13;0.24
+"04     Maintenance work";"Married or cohabiting, youngest child aged 0-6";0.35;0.33;0.35;0.10;0.14;0.13
+"04     Maintenance work";"Married or cohabiting, youngest child aged 7-17";0.45;0.37;0.42;0.17;0.19;0.20
+"04     Maintenance work";"Aged over 45, married or cohibiting, no children";0.49;0.50;0.50;0.21;0.28;0.26
+"04     Maintenance work";"Aged over 45, single, no children";0.21;0.27;0.27;0.16;0.19;0.18
+"05     Other domestic work";"Aged under 45, single, no children, living with parents";0.10;0.05;0.06;0.08;0.06;0.09
+"05     Other domestic work";"Aged under 45, single, no children, living elsewhere";0.13;0.13;0.24;0.10;0.19;0.16
+"05     Other domestic work";"Single parent";.;.;.;0.12;0.15;0.17
+"05     Other domestic work";"Aged under 45, married or cohabiting, no children";0.12;0.12;0.20;0.09;0.10;0.19
+"05     Other domestic work";"Married or cohabiting, youngest child aged 0-6";0.08;0.08;0.11;0.11;0.10;0.12
+"05     Other domestic work";"Married or cohabiting, youngest child aged 7-17";0.11;0.19;0.15;0.09;0.14;0.18
+"05     Other domestic work";"Aged over 45, married or cohibiting, no children";0.19;0.23;0.18;0.16;0.23;0.26
+"05     Other domestic work";"Aged over 45, single, no children";0.10;0.14;0.12;0.14;0.19;0.22
+"06     Childcare";"Aged under 45, single, no children, living with parents";0.01;0.00;0.01;0.03;0.02;0.02
+"06     Childcare";"Aged under 45, single, no children, living elsewhere";0.00;0.00;0.00;0.00;0.00;0.00
+"06     Childcare";"Single parent";.;.;.;0.33;0.52;1.16
+"06     Childcare";"Aged under 45, married or cohabiting, no children";0.00;0.02;0.01;0.01;0.01;0.00
+"06     Childcare";"Married or cohabiting, youngest child aged 0-6";0.45;1.00;1.21;2.14;2.27;2.44
+"06     Childcare";"Married or cohabiting, youngest child aged 7-17";0.05;0.08;0.10;0.11;0.13;0.14
+"06     Childcare";"Aged over 45, married or cohibiting, no children";0.00;0.00;0.00;0.00;0.00;0.00
+"06     Childcare";"Aged over 45, single, no children";0.04;0.01;0.00;0.01;0.00;0.00
+"07     Shopping and services";"Aged under 45, single, no children, living with parents";0.15;0.14;0.11;0.24;0.23;0.23
+"07     Shopping and services";"Aged under 45, single, no children, living elsewhere";0.24;0.20;0.20;0.25;0.29;0.22
+"07     Shopping and services";"Single parent";.;.;.;0.32;0.36;0.29
+"07     Shopping and services";"Aged under 45, married or cohabiting, no children";0.22;0.28;0.25;0.29;0.36;0.29
+"07     Shopping and services";"Married or cohabiting, youngest child aged 0-6";0.21;0.22;0.24;0.29;0.32;0.31
+"07     Shopping and services";"Married or cohabiting, youngest child aged 7-17";0.25;0.28;0.23;0.30;0.33;0.31
+"07     Shopping and services";"Aged over 45, married or cohibiting, no children";0.24;0.29;0.33;0.27;0.30;0.32
+"07     Shopping and services";"Aged over 45, single, no children";0.23;0.27;0.26;0.26;0.27;0.27
+"08     Travel related to domestic work";"Aged under 45, single, no children, living with parents";0.12;0.10;0.08;0.15;0.12;0.13
+"08     Travel related to domestic work";"Aged under 45, single, no children, living elsewhere";0.18;0.12;0.17;0.14;0.17;0.18
+"08     Travel related to domestic work";"Single parent";.;.;.;0.23;0.28;0.40
+"08     Travel related to domestic work";"Aged under 45, married or cohabiting, no children";0.21;0.21;0.19;0.16;0.22;0.22
+"08     Travel related to domestic work";"Married or cohabiting, youngest child aged 0-6";0.21;0.22;0.22;0.27;0.29;0.29
+"08     Travel related to domestic work";"Married or cohabiting, youngest child aged 7-17";0.23;0.23;0.23;0.20;0.21;0.25
+"08     Travel related to domestic work";"Aged over 45, married or cohibiting, no children";0.21;0.19;0.21;0.17;0.18;0.18
+"08     Travel related to domestic work";"Aged over 45, single, no children";0.15;0.16;0.17;0.17;0.15;0.19
+"09     Sleep";"Aged under 45, single, no children, living with parents";9.06;9.15;9.20;9.08;9.19;9.24
+"09     Sleep";"Aged under 45, single, no children, living elsewhere";8.01;8.29;8.38;8.16;8.25;8.29
+"09     Sleep";"Single parent";.;.;.;8.10;8.28;8.25
+"09     Sleep";"Aged under 45, married or cohabiting, no children";8.14;8.40;8.38;8.30;8.52;8.48
+"09     Sleep";"Married or cohabiting, youngest child aged 0-6";7.59;8.13;8.11;8.18;8.27;8.21
+"09     Sleep";"Married or cohabiting, youngest child aged 7-17";8.02;8.03;8.09;8.12;8.15;8.19
+"09     Sleep";"Aged over 45, married or cohibiting, no children";8.20;8.22;8.32;8.24;8.30;8.28
+"09     Sleep";"Aged over 45, single, no children";8.44;8.19;8.11;8.37;8.44;8.54
+"10     Meals";"Aged under 45, single, no children, living with parents";1.10;1.11;1.14;1.07;1.10;1.10
+"10     Meals";"Aged under 45, single, no children, living elsewhere";1.09;1.15;1.15;1.07;1.14;1.23
+"10     Meals";"Single parent";.;.;.;1.12;1.10;1.26
+"10     Meals";"Aged under 45, married or cohabiting, no children";1.12;1.14;1.22;1.04;1.15;1.16
+"10     Meals";"Married or cohabiting, youngest child aged 0-6";1.18;1.18;1.19;1.09;1.17;1.23
+"10     Meals";"Married or cohabiting, youngest child aged 7-17";1.21;1.22;1.26;1.14;1.17;1.20
+"10     Meals";"Aged over 45, married or cohibiting, no children";1.31;1.33;1.34;1.22;1.26;1.31
+"10     Meals";"Aged over 45, single, no children";1.33;1.31;1.22;1.22;1.22;1.23
+"11     Washing and dressing";"Aged under 45, single, no children, living with parents";0.39;0.34;0.41;0.53;0.53;0.56
+"11     Washing and dressing";"Aged under 45, single, no children, living elsewhere";0.51;0.46;0.37;0.55;0.59;1.10
+"11     Washing and dressing";"Single parent";.;.;.;0.48;0.58;0.56
+"11     Washing and dressing";"Aged under 45, married or cohabiting, no children";0.48;0.40;0.49;0.53;0.51;1.02
+"11     Washing and dressing";"Married or cohabiting, youngest child aged 0-6";0.45;0.39;0.44;0.46;0.43;0.58
+"11     Washing and dressing";"Married or cohabiting, youngest child aged 7-17";0.46;0.39;0.42;0.51;0.53;0.54
+"11     Washing and dressing";"Aged over 45, married or cohibiting, no children";0.46;0.47;0.52;0.51;0.50;0.56
+"11     Washing and dressing";"Aged over 45, single, no children";0.49;0.59;0.52;0.57;0.52;1.00
+"12     School or university";"Aged under 45, single, no children, living with parents";1.49;2.12;2.29;2.22;2.39;2.30
+"12     School or university";"Aged under 45, single, no children, living elsewhere";0.49;0.28;0.40;0.56;1.18;1.11
+"12     School or university";"Single parent";.;.;.;0.16;0.19;0.13
+"12     School or university";"Aged under 45, married or cohabiting, no children";0.15;0.24;0.25;0.21;0.41;0.44
+"12     School or university";"Married or cohabiting, youngest child aged 0-6";0.06;0.12;0.07;0.08;0.10;0.05
+"12     School or university";"Married or cohabiting, youngest child aged 7-17";0.02;0.03;0.01;0.04;0.05;0.06
+"12     School or university";"Aged over 45, married or cohibiting, no children";0.00;0.00;0.01;0.01;0.00;0.01
+"12     School or university";"Aged over 45, single, no children";0.00;0.07;0.00;0.00;0.00;0.00
+"13     Travel related to study";"Aged under 45, single, no children, living with parents";0.12;0.16;0.22;0.16;0.21;0.23
+"13     Travel related to study";"Aged under 45, single, no children, living elsewhere";0.04;0.02;0.06;0.04;0.08;0.11
+"13     Travel related to study";"Single parent";.;.;.;0.02;0.02;0.02
+"13     Travel related to study";"Aged under 45, married or cohabiting, no children";0.02;0.03;0.03;0.03;0.06;0.06
+"13     Travel related to study";"Married or cohabiting, youngest child aged 0-6";0.01;0.01;0.00;0.01;0.01;0.01
+"13     Travel related to study";"Married or cohabiting, youngest child aged 7-17";0.00;0.00;0.00;0.01;0.01;0.00
+"13     Travel related to study";"Aged over 45, married or cohibiting, no children";0.00;0.00;0.00;0.00;0.00;0.00
+"13     Travel related to study";"Aged over 45, single, no children";0.00;0.02;0.00;0.00;0.00;0.00
+"14     Free time study (incl. related travel)";"Aged under 45, single, no children, living with parents";0.03;0.02;0.01;0.05;0.03;0.02
+"14     Free time study (incl. related travel)";"Aged under 45, single, no children, living elsewhere";0.05;0.08;0.00;0.06;0.01;0.00
+"14     Free time study (incl. related travel)";"Single parent";.;.;.;0.02;0.02;0.05
+"14     Free time study (incl. related travel)";"Aged under 45, married or cohabiting, no children";0.04;0.01;0.02;0.03;0.03;0.04
+"14     Free time study (incl. related travel)";"Married or cohabiting, youngest child aged 0-6";0.02;0.00;0.00;0.05;0.01;0.01
+"14     Free time study (incl. related travel)";"Married or cohabiting, youngest child aged 7-17";0.05;0.04;0.01;0.04;0.04;0.05
+"14     Free time study (incl. related travel)";"Aged over 45, married or cohibiting, no children";0.02;0.03;0.02;0.02;0.02;0.02
+"14     Free time study (incl. related travel)";"Aged over 45, single, no children";0.01;0.01;0.00;0.02;0.01;0.03
+"15     Participatory activity";"Aged under 45, single, no children, living with parents";0.04;0.05;0.07;0.08;0.09;0.05
+"15     Participatory activity";"Aged under 45, single, no children, living elsewhere";0.05;0.01;0.04;0.11;0.04;0.06
+"15     Participatory activity";"Single parent";.;.;.;0.05;0.08;0.08
+"15     Participatory activity";"Aged under 45, married or cohabiting, no children";0.04;0.07;0.05;0.04;0.02;0.03
+"15     Participatory activity";"Married or cohabiting, youngest child aged 0-6";0.09;0.08;0.04;0.06;0.05;0.05
+"15     Participatory activity";"Married or cohabiting, youngest child aged 7-17";0.11;0.12;0.10;0.06;0.06;0.06
+"15     Participatory activity";"Aged over 45, married or cohibiting, no children";0.10;0.10;0.10;0.08;0.08;0.06
+"15     Participatory activity";"Aged over 45, single, no children";0.08;0.05;0.06;0.13;0.11;0.09
+"16     Sports and outdoor activities";"Aged under 45, single, no children, living with parents";0.54;1.07;0.57;0.39;0.42;0.46
+"16     Sports and outdoor activities";"Aged under 45, single, no children, living elsewhere";0.41;0.36;0.37;0.28;0.41;0.39
+"16     Sports and outdoor activities";"Single parent";.;.;.;0.25;0.37;0.22
+"16     Sports and outdoor activities";"Aged under 45, married or cohabiting, no children";0.34;0.39;0.45;0.30;0.30;0.38
+"16     Sports and outdoor activities";"Married or cohabiting, youngest child aged 0-6";0.28;0.27;0.29;0.18;0.21;0.24
+"16     Sports and outdoor activities";"Married or cohabiting, youngest child aged 7-17";0.34;0.37;0.32;0.26;0.38;0.34
+"16     Sports and outdoor activities";"Aged over 45, married or cohibiting, no children";0.41;0.49;0.52;0.27;0.36;0.42
+"16     Sports and outdoor activities";"Aged over 45, single, no children";0.49;0.48;0.56;0.25;0.40;0.42
+"17     Entertainment and culture";"Aged under 45, single, no children, living with parents";0.08;0.05;0.06;0.08;0.09;0.12
+"17     Entertainment and culture";"Aged under 45, single, no children, living elsewhere";0.06;0.12;0.10;0.09;0.08;0.03
+"17     Entertainment and culture";"Single parent";.;.;.;0.04;0.05;0.08
+"17     Entertainment and culture";"Aged under 45, married or cohabiting, no children";0.06;0.10;0.04;0.05;0.06;0.05
+"17     Entertainment and culture";"Married or cohabiting, youngest child aged 0-6";0.07;0.07;0.06;0.04;0.05;0.04
+"17     Entertainment and culture";"Married or cohabiting, youngest child aged 7-17";0.06;0.05;0.08;0.05;0.05;0.07
+"17     Entertainment and culture";"Aged over 45, married or cohibiting, no children";0.04;0.04;0.04;0.03;0.04;0.05
+"17     Entertainment and culture";"Aged over 45, single, no children";0.04;0.05;0.05;0.03;0.05;0.05
+"18     Reading";"Aged under 45, single, no children, living with parents";0.44;0.23;0.24;0.52;0.39;0.28
+"18     Reading";"Aged under 45, single, no children, living elsewhere";0.42;0.33;0.21;0.49;0.41;0.33
+"18     Reading";"Single parent";.;.;.;0.49;0.37;0.35
+"18     Reading";"Aged under 45, married or cohabiting, no children";0.49;0.33;0.23;0.46;0.33;0.27
+"18     Reading";"Married or cohabiting, youngest child aged 0-6";0.36;0.26;0.16;0.35;0.29;0.24
+"18     Reading";"Married or cohabiting, youngest child aged 7-17";0.49;0.42;0.32;0.46;0.41;0.33
+"18     Reading";"Aged over 45, married or cohibiting, no children";1.15;1.02;1.04;1.00;0.57;1.00
+"18     Reading";"Aged over 45, single, no children";1.10;1.06;0.54;1.18;1.15;1.14
+"19     Listening to radio";"Aged under 45, single, no children, living with parents";0.09;0.04;0.02;0.06;0.05;0.01
+"19     Listening to radio";"Aged under 45, single, no children, living elsewhere";0.13;0.04;0.06;0.10;0.04;0.01
+"19     Listening to radio";"Single parent";.;.;.;0.09;0.02;0.03
+"19     Listening to radio";"Aged under 45, married or cohabiting, no children";0.08;0.03;0.00;0.06;0.03;0.01
+"19     Listening to radio";"Married or cohabiting, youngest child aged 0-6";0.05;0.02;0.00;0.03;0.01;0.01
+"19     Listening to radio";"Married or cohabiting, youngest child aged 7-17";0.09;0.04;0.02;0.05;0.03;0.01
+"19     Listening to radio";"Aged over 45, married or cohibiting, no children";0.32;0.14;0.10;0.20;0.11;0.06
+"19     Listening to radio";"Aged over 45, single, no children";0.47;0.31;0.21;0.43;0.22;0.21
+"20     Watching television";"Aged under 45, single, no children, living with parents";1.58;2.28;1.51;1.39;2.13;1.47
+"20     Watching television";"Aged under 45, single, no children, living elsewhere";1.32;2.30;1.52;1.26;1.43;1.23
+"20     Watching television";"Single parent";.;.;.;1.21;1.47;1.04
+"20     Watching television";"Aged under 45, married or cohabiting, no children";1.54;2.17;2.10;1.36;2.09;1.45
+"20     Watching television";"Married or cohabiting, youngest child aged 0-6";1.38;1.55;1.34;1.12;1.31;1.14
+"20     Watching television";"Married or cohabiting, youngest child aged 7-17";1.42;2.03;2.24;1.19;1.36;1.39
+"20     Watching television";"Aged over 45, married or cohibiting, no children";2.12;2.43;2.53;1.51;2.18;2.21
+"20     Watching television";"Aged over 45, single, no children";1.51;2.45;3.32;2.02;2.50;2.39
+"21     Socialising with family";"Aged under 45, single, no children, living with parents";0.07;0.04;0.05;0.11;0.07;0.07
+"21     Socialising with family";"Aged under 45, single, no children, living elsewhere";0.01;0.00;0.00;0.01;0.01;0.00
+"21     Socialising with family";"Single parent";.;.;.;0.10;0.06;0.11
+"21     Socialising with family";"Aged under 45, married or cohabiting, no children";0.09;0.11;0.08;0.11;0.13;0.08
+"21     Socialising with family";"Married or cohabiting, youngest child aged 0-6";0.18;0.13;0.12;0.20;0.16;0.16
+"21     Socialising with family";"Married or cohabiting, youngest child aged 7-17";0.16;0.10;0.07;0.19;0.14;0.12
+"21     Socialising with family";"Aged over 45, married or cohibiting, no children";0.10;0.05;0.05;0.11;0.05;0.05
+"21     Socialising with family";"Aged over 45, single, no children";0.03;0.00;0.00;0.03;0.01;0.00
+"22     Socialising with friends";"Aged under 45, single, no children, living with parents";1.02;0.58;0.41;1.21;1.07;1.02
+"22     Socialising with friends";"Aged under 45, single, no children, living elsewhere";1.35;1.22;1.04;1.38;1.22;1.16
+"22     Socialising with friends";"Single parent";.;.;.;1.15;0.51;1.01
+"22     Socialising with friends";"Aged under 45, married or cohabiting, no children";1.02;0.46;0.43;1.07;0.52;0.52
+"22     Socialising with friends";"Married or cohabiting, youngest child aged 0-6";0.52;0.35;0.32;0.59;0.43;0.41
+"22     Socialising with friends";"Married or cohabiting, youngest child aged 7-17";0.40;0.31;0.24;0.50;0.38;0.32
+"22     Socialising with friends";"Aged over 45, married or cohibiting, no children";0.50;0.35;0.33;1.03;0.41;0.40
+"22     Socialising with friends";"Aged over 45, single, no children";1.16;0.51;0.41;1.14;1.00;0.56
+"23     Hobbies";"Aged under 45, single, no children, living with parents";0.47;1.34;2.35;0.55;1.05;1.54
+"23     Hobbies";"Aged under 45, single, no children, living elsewhere";0.20;0.39;1.49;0.30;0.29;1.32
+"23     Hobbies";"Single parent";.;.;.;0.21;0.22;0.44
+"23     Hobbies";"Aged under 45, married or cohabiting, no children";0.13;0.32;1.23;0.20;0.20;0.56
+"23     Hobbies";"Married or cohabiting, youngest child aged 0-6";0.08;0.13;0.36;0.12;0.12;0.27
+"23     Hobbies";"Married or cohabiting, youngest child aged 7-17";0.11;0.16;0.39;0.17;0.13;0.28
+"23     Hobbies";"Aged over 45, married or cohibiting, no children";0.16;0.16;0.44;0.31;0.24;0.40
+"23     Hobbies";"Aged over 45, single, no children";0.16;0.18;0.39;0.32;0.31;0.38
+"24     Other free time";"Aged under 45, single, no children, living with parents";0.21;0.20;0.21;0.17;0.21;0.21
+"24     Other free time";"Aged under 45, single, no children, living elsewhere";0.19;0.19;0.13;0.13;0.15;0.12
+"24     Other free time";"Single parent";.;.;.;0.22;0.16;0.06
+"24     Other free time";"Aged under 45, married or cohabiting, no children";0.14;0.14;0.13;0.20;0.17;0.18
+"24     Other free time";"Married or cohabiting, youngest child aged 0-6";0.16;0.14;0.15;0.13;0.16;0.14
+"24     Other free time";"Married or cohabiting, youngest child aged 7-17";0.20;0.25;0.23;0.16;0.22;0.16
+"24     Other free time";"Aged over 45, married or cohibiting, no children";0.44;0.42;0.29;0.33;0.31;0.22
+"24     Other free time";"Aged over 45, single, no children";1.15;0.43;0.28;1.03;0.49;0.28
+"25     Travel related to free time";"Aged under 45, single, no children, living with parents";0.54;0.40;0.37;0.48;0.45;0.42
+"25     Travel related to free time";"Aged under 45, single, no children, living elsewhere";0.57;0.46;0.44;0.52;0.47;0.40
+"25     Travel related to free time";"Single parent";.;.;.;0.22;0.32;0.25
+"25     Travel related to free time";"Aged under 45, married or cohabiting, no children";0.36;0.41;0.41;0.35;0.38;0.28
+"25     Travel related to free time";"Married or cohabiting, youngest child aged 0-6";0.27;0.24;0.22;0.24;0.24;0.24
+"25     Travel related to free time";"Married or cohabiting, youngest child aged 7-17";0.32;0.26;0.19;0.26;0.25;0.21
+"25     Travel related to free time";"Aged over 45, married or cohibiting, no children";0.27;0.26;0.29;0.25;0.24;0.24
+"25     Travel related to free time";"Aged over 45, single, no children";0.27;0.19;0.29;0.24;0.23;0.25
