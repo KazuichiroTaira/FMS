@@ -10,29 +10,29 @@ MATRIX="akay_001_200900";
 COPYRIGHT=YES;
 SUBJECT-CODE="ELI";
 SUBJECT-AREA="Elinolot";
-DESCRIPTION="001 -- Ajankäyttö (26 lk) syksyllä";
-TITLE="Ajankäyttö (26 lk) syksyllä muuttujina Toiminto, Tiedot, Sukupuoli ja Vuosi";
-CONTENTS="Ajankäyttö (26 lk) syksyllä";
+DESCRIPTION="001 -- Ajankï¿½yttï¿½ (26 lk) syksyllï¿½";
+TITLE="Ajankï¿½yttï¿½ (26 lk) syksyllï¿½ muuttujina Toiminto, Tiedot, Sukupuoli ja Vuosi";
+CONTENTS="Ajankï¿½yttï¿½ (26 lk) syksyllï¿½";
 STUB="Toiminto";
 HEADING="Tiedot","Sukupuoli","Vuosi";
-VALUES("Toiminto")="01-26  Yhteensä","01-02  Ansiotyö yhteensä","01     Ansiotyö","02     Työmatkat","03-08  Kotityö yhteensä","03     Kotitaloustyö","04     Huoltotyö","05     Muut kotityöt","06     Lasten hoito","07     Ostokset ja asiointi",
-"08     Kotityöhön liittyvät matkat","09-11  Henkilökohtaiset tarpeet yhteensä","09     Nukkuminen","10     Ruokailu","11     Peseytyminen, pukeutuminen","12-14  Opiskelu yhteensä","12     Koulunkäynti ja opiskelu","13     Koulumatkat",
-"14     Vapaa-ajan opiskelu (ml. matkat)","15-25  Vapaa-aika yhteensä","15     Osallistuva toiminta","16     Liikunta ja ulkoilu","17     Kulttuuri- ja huvitilaisuudet","18     Lukeminen","19     Radion kuuntelu","20     Television katselu",
-"21     Seurustelu perheen kanssa","22     Seurustelu tuttavien kanssa","23     Harrastukset","24     Muu vapaa-aika","25     Vapaa-ajan matkat","26     Erittelemätön";
-VALUES("Tiedot")="10-64 vuotiaiden käytetty aika tuntia,min/vrk","Toimintoon osallistuneita %";
-VALUES("Sukupuoli")="Yhteensä","Miehet","Naiset";
+VALUES("Toiminto")="01-26  Yhteensï¿½","01-02  Ansiotyï¿½ yhteensï¿½","01     Ansiotyï¿½","02     Tyï¿½matkat","03-08  Kotityï¿½ yhteensï¿½","03     Kotitaloustyï¿½","04     Huoltotyï¿½","05     Muut kotityï¿½t","06     Lasten hoito","07     Ostokset ja asiointi",
+"08     Kotityï¿½hï¿½n liittyvï¿½t matkat","09-11  Henkilï¿½kohtaiset tarpeet yhteensï¿½","09     Nukkuminen","10     Ruokailu","11     Peseytyminen, pukeutuminen","12-14  Opiskelu yhteensï¿½","12     Koulunkï¿½ynti ja opiskelu","13     Koulumatkat",
+"14     Vapaa-ajan opiskelu (ml. matkat)","15-25  Vapaa-aika yhteensï¿½","15     Osallistuva toiminta","16     Liikunta ja ulkoilu","17     Kulttuuri- ja huvitilaisuudet","18     Lukeminen","19     Radion kuuntelu","20     Television katselu",
+"21     Seurustelu perheen kanssa","22     Seurustelu tuttavien kanssa","23     Harrastukset","24     Muu vapaa-aika","25     Vapaa-ajan matkat","26     Erittelemï¿½tï¿½n";
+VALUES("Tiedot")="10-64 vuotiaiden kï¿½ytetty aika tuntia,min/vrk","Toimintoon osallistuneita %";
+VALUES("Sukupuoli")="Yhteensï¿½","Miehet","Naiset";
 VALUES("Vuosi")="1979","1987","1999","2009";
 CODES("Toiminto")="01-26","01-02","01","02","03-08","03","04","05","06","07","08","09-11","09","10","11","12-14","12","13","14","15-25","15","16","17","18","19","20","21","22","23","24","25","26";
 CODES("Tiedot")="Kaytaika","Osallist";
 CODES("Sukupuoli")="S","1","2";
 CODES("Vuosi")="1979","1987","1999","2009";
-PRECISION("Tiedot","10-64 vuotiaiden käytetty aika tuntia,min/vrk")=2;
+PRECISION("Tiedot","10-64 vuotiaiden kï¿½ytetty aika tuntia,min/vrk")=2;
 LAST-UPDATED="20110217 09:00";
 UNITS="tuntia,minuuttia, %";
-CONTACT="Tilastokeskus#<A HREF=http://tilastokeskus.fi/til/akay/index.html TARGET=_blank>Tilaston kotisivu</A>#<A HREF=http://tilastokeskus.fi/til/akay/yht.html TARGET=_blank>Lisätietoja</A>";
+CONTACT="Tilastokeskus#<A HREF=http://tilastokeskus.fi/til/akay/index.html TARGET=_blank>Tilaston kotisivu</A>#<A HREF=http://tilastokeskus.fi/til/akay/yht.html TARGET=_blank>Lisï¿½tietoja</A>";
 SOURCE="TIlastokeskus";
-NOTE="<A HREF=http://tilastokeskus.fi/meta/til/akay.html TARGET=_blank>Tilaston kuvaus</A>#<A HREF=http://tilastokeskus.fi/til/akay/laa.html TARGET=_blank>Laatuselosteet</A>#<A HREF=http://tilastokeskus.fi/til/akay/kas.html TARGET=_blank>Käsitteet ja määritelm"
-"ät</A>#";
+NOTE="<A HREF=http://tilastokeskus.fi/meta/til/akay.html TARGET=_blank>Tilaston kuvaus</A>#<A HREF=http://tilastokeskus.fi/til/akay/laa.html TARGET=_blank>Laatuselosteet</A>#<A HREF=http://tilastokeskus.fi/til/akay/kas.html TARGET=_blank>Kï¿½sitteet ja mï¿½ï¿½ritelm"
+"ï¿½t</A>#";
 SUBJECT-AREA[en]="Living Conditions";
 DESCRIPTION[en]="001 -- Time Use (26 categories) in autumn 1979, 1987 1999 and 2009";
 TITLE[en]="Time Use (26 categories) in autumn 1979, 1987 1999 and 2009 by Activity, Information, Sex and Year";
